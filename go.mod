@@ -1,3 +1,3 @@
-module stanislavulrych/go-tempo
+module github.com/stanislavulrych/go-tempo
 
 go 1.19
